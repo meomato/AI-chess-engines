@@ -35,7 +35,7 @@ Among them, **Lc0** and **Stockfish NNUE** were selected for implementation base
 3. **Specify path in code**:
 
    ```python
-   lc0_path = Path("your_path_to_lc0/lc0.exe")  # update to your actual location
+   lc0_path = Path("your_path_to_lc0/lc0.exe")
    ```
 
 ### Stockfish NNUE
