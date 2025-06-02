@@ -78,4 +78,5 @@ Among them, **Lc0** and **Stockfish NNUE** were selected for implementation base
 
 See the full implementation details, code explanations, and result visualizations in the notebook and the PDF report:
 
-📄 [Notebook: `lc0-and-stockfish.ipynb`](./lc0-and-stockfish.ipynb)
+1. Notebook: [`lc0-and-stockfish.ipynb`](./lc0-and-stockfish.ipynb)
+2. Analysis of Neural Models in Chess and Their Implementation pdf: [`course_work.pdf`](./course_work.pdf)
