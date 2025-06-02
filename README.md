@@ -25,7 +25,7 @@ Among them, **Lc0** and **Stockfish NNUE** were selected for implementation base
 ### Leela Chess Zero (Lc0)
 
 1. **Download the engine**:
-   👉 [LCZero Download Page](https://lczero.org/play/download/)
+ [LCZero Download Page](https://lczero.org/play/download/)
 
 2. **Choose the version** for your OS:
 
@@ -41,7 +41,7 @@ Among them, **Lc0** and **Stockfish NNUE** were selected for implementation base
 ### Stockfish NNUE
 
 1. **Download the official Stockfish build**:
-   👉 [Stockfish Download Page](https://stockfishchess.org/download/)
+ [Stockfish Download Page](https://stockfishchess.org/download/)
 
 2. **Pick the correct build**:
 
